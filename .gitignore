@@ -1,0 +1,4 @@
+diffusers/*
+model/data/*
+model/models/*
+.env/*
